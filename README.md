@@ -7,14 +7,13 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 -----------------
 
 * :house: Based in Germany.
-* :rabbit: See my portfolio at ...
+* :rabbit: See my portfolio at: https://wk-chung.com/about/ (still under construction)
 * :mailbox_with_mail: You can contact me at wkaichungtw@gmail.com
-* <i class="fa-brands fa-linkedin" style="color: #0a66c2;">&nbsp;&nbsp;</i> You can find my LinkedIn by [clicking here](https://www.linkedin.com/in/wen-kai-chung-376b078a/).
+* <img src="./assets/linkedin-brands.svg" style="vertical-align: middle;" width="18px" height="15px"> You can find my LinkedIn by [clicking here LinkedIn](https://www.linkedin.com/in/wen-kai-chung-376b078a/). 
 * :deciduous_tree:  I specialize in Time Series forecasting, currently doing hierarchical demand forecasting for industry supply chain in Azure.
 * :seedling:  I am doing some side projects involving LLM, Text-to-Speech, and a Flutter-based language learning app.
 * :zap:  I am mainly interested in particular research topics, e.g., uncertainty estimation, causal inference.
 * :earth_asia: I speak Chinese, English and a bit of German.
-
 
 
 
