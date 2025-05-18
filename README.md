@@ -1,11 +1,9 @@
 
 
-Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wen-Kai CHUNG
-=======================================================================================================================================
+# Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wen-Kai CHUNG
 
 <!-- note: width=22px is intentional: local display may seem not aligned but GitHub display seems perfect. -->
 ## Data Scientist
------------------
 * :house: Based in Germany.
 * :rabbit: See my portfolio at: https://wk-chung.com/about/ (still under construction)
 * :mailbox_with_mail: You can contact me at wkaichungtw@gmail.com
@@ -19,7 +17,6 @@ Hello! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b
 
 
 ## :sushi: Skills
------------------
 ### Languages
 <p align="left">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
