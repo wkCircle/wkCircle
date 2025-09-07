@@ -5,7 +5,8 @@
 <!-- note: width=22px is intentional: local display may seem not aligned but GitHub display seems perfect. -->
 ## Data Scientist
 * :house: Based in Germany.
-* :rabbit: See my portfolio at: https://wk-chung.com/about/ (still under construction).
+* :rabbit: See my portfolio at: https://wk-chung.com/about/
+* :tiger: See my blog website at: https://wk-chung.com/
 * :mailbox_with_mail: You can contact me at wkaichungtw@gmail.com (Gmail).
 * <img src="./assets/linkedin-brands.svg" style="vertical-align: middle;" width="22px" height="15px"> You can find my LinkedIn by [clicking here LinkedIn](https://www.linkedin.com/in/wen-kai-chung-376b078a/). 
 * :deciduous_tree:  I specialize in Time Series forecasting, currently doing hierarchical demand forecasting for industry supply chain in Aviation. The forecast will later be deployed in Azure.
