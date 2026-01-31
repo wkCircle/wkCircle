@@ -20,24 +20,31 @@
 ## :sushi: Skills
 ### Languages
 <p align="left">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ### Platforms
 <p align="left">
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
+<img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
+<img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
 
 ### Data Science
-HuggingFace, Pytorch, Tensorflow, Python Dash, Flask, Fast API, Azure ML, Azure Synapse, MLFlow, Nixtla (Hierarchical Time series forecasting), LangChain.
+HuggingFace, Pytorch, Tensorflow, Python Dash, Azure ML, Azure Synapse, MLFlow, Nixtla (Hierarchical Time series forecasting).
 
-### CI/CD
-Docker, Azure DevOps, Github Actions, Jenkins, OpenShift.
+### CI/CD and Server Connections
+Docker, Azure DevOps, Github Actions, Jenkins, OpenShift, Flask, Fast API
+
+### Frontend
+Flutter, Python Dash.
+
+### NLP Related
+MCP, OpenAI API, LangGraph
 
 ### My GitHub Stats
 
